@@ -660,6 +660,7 @@ footer{
     font-size: 14px;
     color: #535353;
     font-weight: 400;
+    text-transform: initial;
 }
 
 .dm-modal h3{
